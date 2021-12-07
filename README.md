@@ -1,5 +1,4 @@
-### Hi there 👋
->> This is Apurv
+# Hi, This is Apurv Rathore 👋
 <!--
 **Apurv-Rathore/Apurv-Rathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
